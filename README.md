@@ -4,13 +4,19 @@
 
 ### requirements:
 
+- Add a media query for Laptop screens that displays 4 coloumns.
 - Add a media query for tablet screens that displays 3 coloumns.
 - Add a media query for mobile screens that displays all the cards vertically in in one column
 
 ### Grid Task
+### Laptop Screen Output
 
 ![task](images/four.png)
 
 ### Tablet Screen Output
 
 ![output](images/three.png)
+
+### Mobile Screen Output
+* it should have 1 card in each row so all the cards vertically in in one column
+
