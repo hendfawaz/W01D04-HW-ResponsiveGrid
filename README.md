@@ -1,5 +1,11 @@
 # W01D04-HW-ResponsiveDesign
 
+## create a page like the following using gridbox:
+### requirements:
+- the grid should have 4 columns
+- each grid card must have a title, image, call to action and an optional description
+
+
 ## Modify the previous Grid task to make it responsive:
 
 ### requirements:
