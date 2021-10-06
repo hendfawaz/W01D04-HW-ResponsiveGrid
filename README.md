@@ -4,6 +4,7 @@
 ### requirements:
 - the grid should have 4 columns
 - each grid card must have a title, image, call to action and an optional description
+
 ![task](images/four.png)
 
 ## Modify the previous Grid task to make it responsive:
