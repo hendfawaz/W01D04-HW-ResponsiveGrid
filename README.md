@@ -18,5 +18,5 @@
 ![output](images/three.png)
 
 ### Mobile Screen Output
-* it should have 1 card in each row so all the cards vertically in in one column
 
+![output1](images/one.png)
