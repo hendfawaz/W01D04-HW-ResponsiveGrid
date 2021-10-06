@@ -1,4 +1,4 @@
-# W01D04-HW-ResponsiveDesign
+# W01D04-HW-ResponsiveDesign-Grid
 
 ## create a page like the following using gridbox:
 ### requirements:
